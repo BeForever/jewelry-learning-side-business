@@ -77,6 +77,8 @@
 
 了解形成环境有助于理解宝石的稀少性和复杂性，但不能直接推出：
 
+![宝石主要形成环境图](../assets/lesson-02/formation-environments-map.png)
+
 - 一定天然。
 - 一定高价。
 - 一定来自某产地。
@@ -176,6 +178,12 @@
 ### 评论区互动问题
 
 你买珠宝时，更容易被「形成故事」打动，还是更看重证书和预算？
+
+### 发布素材包
+
+- [宝石主要形成环境图 PNG](../assets/lesson-02/formation-environments-map.png) / [SVG 源文件](../assets/lesson-02/formation-environments-map.svg)
+- [第 2 课短视频分镜](../assets/lesson-02/video-shotlist.md)
+- [第 2 课图文轮播稿](../assets/lesson-02/carousel-copy.md)
 
 ## 5. 学习档案更新
 

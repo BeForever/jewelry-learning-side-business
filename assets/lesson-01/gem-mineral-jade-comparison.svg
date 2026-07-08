@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">宝石、矿物、玉石区别图</title>
+  <desc id="desc">用三张卡片对比宝石、矿物和玉石的不同语境。</desc>
+  <rect width="1200" height="900" fill="#fbf8f2"/>
+  <text x="600" y="70" text-anchor="middle" font-family="Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="42" font-weight="700" fill="#2d2520">宝石、矿物、玉石不是一回事</text>
+  <text x="600" y="112" text-anchor="middle" font-family="Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="22" fill="#675b50">矿物偏科学分类，宝石偏价值使用，玉石偏文化工艺</text>
+
+  <g font-family="Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif">
+    <rect x="70" y="175" width="320" height="500" rx="28" fill="#eaf3f7" stroke="#8bb8ca" stroke-width="3"/>
+    <text x="230" y="235" text-anchor="middle" font-size="36" font-weight="700" fill="#24576a">矿物</text>
+    <text x="230" y="280" text-anchor="middle" font-size="24" fill="#24576a">自然科学概念</text>
+    <circle cx="230" cy="375" r="58" fill="#c9e0e8" stroke="#3d6172" stroke-width="4"/>
+    <path d="M196 390 L230 315 L264 390 Z" fill="#8bb8ca"/>
+    <text x="105" y="490" font-size="24" fill="#2d2520">特点：</text>
+    <text x="105" y="535" font-size="22" fill="#2d2520">• 天然形成</text>
+    <text x="105" y="575" font-size="22" fill="#2d2520">• 化学成分相对确定</text>
+    <text x="105" y="615" font-size="22" fill="#2d2520">• 有内部结构</text>
+
+    <rect x="440" y="175" width="320" height="500" rx="28" fill="#fff2df" stroke="#d79a62" stroke-width="3"/>
+    <text x="600" y="235" text-anchor="middle" font-size="36" font-weight="700" fill="#8a4f22">宝石</text>
+    <text x="600" y="280" text-anchor="middle" font-size="24" fill="#8a4f22">价值与使用概念</text>
+    <polygon points="600,315 670,380 600,445 530,380" fill="#e4b37f" stroke="#9a6238" stroke-width="4"/>
+    <path d="M530 380 H670 M600 315 L565 380 L600 445 L635 380 Z" fill="none" stroke="#9a6238" stroke-width="3"/>
+    <text x="475" y="490" font-size="24" fill="#2d2520">通常看：</text>
+    <text x="475" y="535" font-size="22" fill="#2d2520">• 美观</text>
+    <text x="475" y="575" font-size="22" fill="#2d2520">• 耐久</text>
+    <text x="475" y="615" font-size="22" fill="#2d2520">• 稀少</text>
+
+    <rect x="810" y="175" width="320" height="500" rx="28" fill="#eef6ed" stroke="#8dbb87" stroke-width="3"/>
+    <text x="970" y="235" text-anchor="middle" font-size="36" font-weight="700" fill="#3f6b37">玉石</text>
+    <text x="970" y="280" text-anchor="middle" font-size="24" fill="#3f6b37">文化与工艺概念</text>
+    <ellipse cx="970" cy="380" rx="82" ry="55" fill="#bad9b4" stroke="#5f8f58" stroke-width="4"/>
+    <path d="M900 380 C930 340, 1000 340, 1040 380 C1005 420, 935 420, 900 380 Z" fill="none" stroke="#5f8f58" stroke-width="3"/>
+    <text x="845" y="490" font-size="24" fill="#2d2520">常关注：</text>
+    <text x="845" y="535" font-size="22" fill="#2d2520">• 质地</text>
+    <text x="845" y="575" font-size="22" fill="#2d2520">• 颜色与油润感</text>
+    <text x="845" y="615" font-size="22" fill="#2d2520">• 雕工与文化偏好</text>
+
+    <rect x="160" y="730" width="880" height="70" rx="20" fill="#fffdf8" stroke="#d5c4af" stroke-width="2"/>
+    <text x="600" y="775" text-anchor="middle" font-size="26" font-weight="700" fill="#4d443d">消费提醒：天然矿物 ≠ 高价值宝石；叫“玉”也不等于品质好</text>
+  </g>
+</svg>

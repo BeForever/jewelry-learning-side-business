@@ -43,13 +43,15 @@
 4. 常见晶系入门应该先记哪些？
 5. 面向自媒体时，如何用图示解释晶体结构，而不把它讲成鉴定结论？
 
-## 多媒体素材记录
+## 自媒体发布包记录
 
-| 课次 | 素材 | 用途 |
-| --- | --- | --- |
-| 第 3 课 | [莫氏硬度阶梯图](assets/lesson-03/mohs-hardness-scale.svg) | 帮助记忆硬度 1-10 的代表矿物 |
-| 第 3 课 | [解理与断口对比图](assets/lesson-03/cleavage-vs-fracture.svg) | 解释规则裂开和不规则破裂的区别 |
-| 第 3 课 | [短视频分镜](assets/lesson-03/video-shotlist.md) | 用于制作 60-90 秒自媒体视频 |
+每一课后续都按「课程正文 + 关键配图 + 短视频分镜 + 图文轮播稿」维护，便于直接改成账号发布内容。
+
+| 课次 | 关键配图 | 短视频分镜 | 图文轮播稿 | 状态 |
+| --- | --- | --- | --- | --- |
+| 第 1 课 | [宝石、矿物、玉石区别图](assets/lesson-01/gem-mineral-jade-comparison.png) | [video-shotlist.md](assets/lesson-01/video-shotlist.md) | [carousel-copy.md](assets/lesson-01/carousel-copy.md) | 已补齐 |
+| 第 2 课 | [宝石主要形成环境图](assets/lesson-02/formation-environments-map.png) | [video-shotlist.md](assets/lesson-02/video-shotlist.md) | [carousel-copy.md](assets/lesson-02/carousel-copy.md) | 已补齐 |
+| 第 3 课 | [莫氏硬度图](assets/lesson-03/mohs-hardness-scale.png)、[解理断口图](assets/lesson-03/cleavage-vs-fracture.png) | [video-shotlist.md](assets/lesson-03/video-shotlist.md) | [carousel-copy.md](assets/lesson-03/carousel-copy.md) | 已补齐 |
 
 ## 自媒体运营记录
 

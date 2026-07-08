@@ -79,6 +79,8 @@
 玉石：文化、工艺和材料使用分类
 ```
 
+![宝石、矿物、玉石区别图](../assets/lesson-01/gem-mineral-jade-comparison.png)
+
 它们有交集，但不能互相替代。
 
 例如：
@@ -170,6 +172,12 @@
 ### 评论区互动问题
 
 你以前有没有把「矿物」「宝石」「玉石」当成同一个意思？最容易混淆的是哪个？
+
+### 发布素材包
+
+- [宝石、矿物、玉石区别图 PNG](../assets/lesson-01/gem-mineral-jade-comparison.png) / [SVG 源文件](../assets/lesson-01/gem-mineral-jade-comparison.svg)
+- [第 1 课短视频分镜](../assets/lesson-01/video-shotlist.md)
+- [第 1 课图文轮播稿](../assets/lesson-01/carousel-copy.md)
 
 ## 5. 学习档案更新
 
