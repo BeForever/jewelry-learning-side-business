@@ -14,7 +14,8 @@
 
 - 已完成第 1 课：宝石、矿物、玉石的区别
 - 已完成第 2 课：宝石的主要形成环境
-- 下一课：第 3 课，矿物的物理性质：硬度、解理、断口、光泽
+- 已完成第 3 课：矿物的物理性质：硬度、解理、断口、光泽
+- 下一课：第 4 课，晶体、晶面和晶系入门
 
 详细进度见：[progress.md](progress.md)
 
@@ -46,10 +47,22 @@
 ├── README.md
 ├── ai-context.md
 ├── progress.md
-└── lessons/
-    ├── lesson-01.md
-    └── lesson-02.md
+├── lessons/
+│   ├── lesson-01.md
+│   ├── lesson-02.md
+│   └── lesson-03.md
+└── assets/
+    └── lesson-03/
+        ├── cleavage-vs-fracture.svg
+        ├── mohs-hardness-scale.svg
+        └── video-shotlist.md
 ```
+
+## 多媒体学习原则
+
+- 纯概念课可以文字为主，但涉及结构、对比、观察方法时，应尽量配图。
+- 涉及光泽、火彩、切工、仪器操作、佩戴场景时，应优先考虑短视频或动图。
+- 每节课至少判断一次：是否需要配图、视频、实物照片或分镜脚本。
 
 ## 表达原则
 
