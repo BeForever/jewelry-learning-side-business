@@ -47,7 +47,7 @@
 | 9 | 刚玉 | 红宝石、蓝宝石所属矿物 |
 | 10 | 钻石 | 天然矿物中硬度最高 |
 
-![莫氏硬度阶梯图](../assets/lesson-03/mohs-hardness-scale.svg)
+![莫氏硬度阶梯图](../assets/lesson-03/mohs-hardness-scale.png)
 
 注意：莫氏硬度不是线性刻度。硬度 10 和硬度 9 的真实抗划伤差距很大，不能简单理解为只差一级。
 
@@ -91,7 +91,7 @@
 - 黄玉有明显解理，佩戴和镶嵌时要注意磕碰风险。
 - 石英通常无明显解理，常见贝壳状断口。
 
-![解理与断口对比图](../assets/lesson-03/cleavage-vs-fracture.svg)
+![解理与断口对比图](../assets/lesson-03/cleavage-vs-fracture.png)
 
 #### 消费视角
 
@@ -302,8 +302,8 @@
 
 本仓库已为本课准备基础视觉素材：
 
-- [莫氏硬度阶梯图](../assets/lesson-03/mohs-hardness-scale.svg)
-- [解理与断口对比图](../assets/lesson-03/cleavage-vs-fracture.svg)
+- [莫氏硬度阶梯图 PNG](../assets/lesson-03/mohs-hardness-scale.png) / [SVG 源文件](../assets/lesson-03/mohs-hardness-scale.svg)
+- [解理与断口对比图 PNG](../assets/lesson-03/cleavage-vs-fracture.png) / [SVG 源文件](../assets/lesson-03/cleavage-vs-fracture.svg)
 - [第 3 课短视频分镜](../assets/lesson-03/video-shotlist.md)
 
 ### 4.5 评论区互动问题
