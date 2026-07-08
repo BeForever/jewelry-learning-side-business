@@ -4,14 +4,20 @@
 
 ## 当前学习状态
 
-- 当前阶段：第 1 阶段，第 1-2 月，普通地质学、矿物学、晶体学、岩石学基础。
+- 当前阶段：第 1 阶段到第 2 阶段过渡，已完成普通地质学、矿物学、晶体学、岩石学基础前 10 课。
 - 已完成课程：
   - 第 1 课：宝石、矿物、玉石的区别
   - 第 2 课：宝石的主要形成环境
   - 第 3 课：矿物的物理性质：硬度、解理、断口、光泽
   - 第 4 课：晶体、晶面和晶系入门
-- 下一课：
   - 第 5 课：岩石基础：岩浆岩、沉积岩、变质岩与宝石的关系
+  - 第 6 课：矿物的化学成分与致色元素入门
+  - 第 7 课：宝石颜色成因：自色、他色、色心与处理
+  - 第 8 课：宝石光学性质入门：透明度、折射、双折射和多色性
+  - 第 9 课：包裹体与生长痕迹入门：为什么不能只靠肉眼下结论
+  - 第 10 课：宝石学仪器入门：放大镜、折射仪、偏光镜和二色镜
+- 下一课：
+  - 第 11 课：宝石证书入门：证书能告诉你什么，不能告诉你什么
 
 ## 总体学习路线
 
@@ -32,18 +38,24 @@
 | 第 2 课 | 宝石的主要形成环境 | [lessons/lesson-02.md](lessons/lesson-02.md) | 已完成 |
 | 第 3 课 | 矿物的物理性质：硬度、解理、断口、光泽 | [lessons/lesson-03.md](lessons/lesson-03.md) | 已完成 |
 | 第 4 课 | 晶体、晶面和晶系入门 | [lessons/lesson-04.md](lessons/lesson-04.md) | 已完成 |
+| 第 5 课 | 岩石基础：岩浆岩、沉积岩、变质岩与宝石的关系 | [lessons/lesson-05.md](lessons/lesson-05.md) | 已完成 |
+| 第 6 课 | 矿物的化学成分与致色元素入门 | [lessons/lesson-06.md](lessons/lesson-06.md) | 已完成 |
+| 第 7 课 | 宝石颜色成因：自色、他色、色心与处理 | [lessons/lesson-07.md](lessons/lesson-07.md) | 已完成 |
+| 第 8 课 | 宝石光学性质入门：透明度、折射、双折射和多色性 | [lessons/lesson-08.md](lessons/lesson-08.md) | 已完成 |
+| 第 9 课 | 包裹体与生长痕迹入门：为什么不能只靠肉眼下结论 | [lessons/lesson-09.md](lessons/lesson-09.md) | 已完成 |
+| 第 10 课 | 宝石学仪器入门：放大镜、折射仪、偏光镜和二色镜 | [lessons/lesson-10.md](lessons/lesson-10.md) | 已完成 |
 
 ## 下一课准备
 
-### 第 5 课：岩石基础：岩浆岩、沉积岩、变质岩与宝石的关系
+### 第 11 课：宝石证书入门：证书能告诉你什么，不能告诉你什么
 
 需要重点回答：
 
-1. 岩石和矿物有什么区别？
-2. 岩浆岩、沉积岩、变质岩分别如何形成？
-3. 三大岩类和宝石形成环境有什么关系？
-4. 为什么有些宝石来自原生矿床，有些来自次生沉积富集？
-5. 面向自媒体时，如何讲清“岩石背景”，但不把它包装成产地或价值结论？
+1. 证书的作用是什么？
+2. 证书通常能说明哪些信息，不能说明哪些信息？
+3. 常见证书机构和检测范围有什么差异？
+4. 如何读懂证书中的品种、处理、备注和限制？
+5. 面向自媒体时，如何讲证书而不替代专业检测机构下结论？
 
 ## 自媒体发布包记录
 
@@ -55,6 +67,12 @@
 | 第 2 课 | [宝石主要形成环境图](assets/lesson-02/formation-environments-map.png) | [video-shotlist.md](assets/lesson-02/video-shotlist.md) | [carousel-copy.md](assets/lesson-02/carousel-copy.md) | 已补齐 |
 | 第 3 课 | [莫氏硬度图](assets/lesson-03/mohs-hardness-scale.png)、[解理断口图](assets/lesson-03/cleavage-vs-fracture.png) | [video-shotlist.md](assets/lesson-03/video-shotlist.md) | [carousel-copy.md](assets/lesson-03/carousel-copy.md) | 已补齐 |
 | 第 4 课 | [晶体非晶质体图](assets/lesson-04/crystal-vs-amorphous.png)、[晶面晶棱晶系图](assets/lesson-04/crystal-faces-edges-systems.png) | [video-shotlist.md](assets/lesson-04/video-shotlist.md) | [carousel-copy.md](assets/lesson-04/carousel-copy.md) | 已补齐 |
+| 第 5 课 | [三大岩类与宝石关系图](assets/lesson-05/rock-cycle-gem-context.png) | [video-shotlist.md](assets/lesson-05/video-shotlist.md) | [carousel-copy.md](assets/lesson-05/carousel-copy.md) | 已补齐 |
+| 第 6 课 | [化学成分与致色元素图](assets/lesson-06/composition-trace-elements.png) | [video-shotlist.md](assets/lesson-06/video-shotlist.md) | [carousel-copy.md](assets/lesson-06/carousel-copy.md) | 已补齐 |
+| 第 7 课 | [宝石颜色成因图](assets/lesson-07/gem-color-causes.png) | [video-shotlist.md](assets/lesson-07/video-shotlist.md) | [carousel-copy.md](assets/lesson-07/carousel-copy.md) | 已补齐 |
+| 第 8 课 | [宝石光学性质图](assets/lesson-08/optical-properties-map.png) | [video-shotlist.md](assets/lesson-08/video-shotlist.md) | [carousel-copy.md](assets/lesson-08/carousel-copy.md) | 已补齐 |
+| 第 9 课 | [包裹体与生长痕迹图](assets/lesson-09/inclusions-growth-features.png) | [video-shotlist.md](assets/lesson-09/video-shotlist.md) | [carousel-copy.md](assets/lesson-09/carousel-copy.md) | 已补齐 |
+| 第 10 课 | [宝石学仪器入门图](assets/lesson-10/gemology-instruments-intro.png) | [video-shotlist.md](assets/lesson-10/video-shotlist.md) | [carousel-copy.md](assets/lesson-10/carousel-copy.md) | 已补齐 |
 
 ## 自媒体运营记录
 
