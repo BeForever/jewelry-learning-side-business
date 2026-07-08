@@ -9,8 +9,9 @@
   - 第 1 课：宝石、矿物、玉石的区别
   - 第 2 课：宝石的主要形成环境
   - 第 3 课：矿物的物理性质：硬度、解理、断口、光泽
-- 下一课：
   - 第 4 课：晶体、晶面和晶系入门
+- 下一课：
+  - 第 5 课：岩石基础：岩浆岩、沉积岩、变质岩与宝石的关系
 
 ## 总体学习路线
 
@@ -30,18 +31,19 @@
 | 第 1 课 | 宝石、矿物、玉石的区别 | [lessons/lesson-01.md](lessons/lesson-01.md) | 已完成 |
 | 第 2 课 | 宝石的主要形成环境 | [lessons/lesson-02.md](lessons/lesson-02.md) | 已完成 |
 | 第 3 课 | 矿物的物理性质：硬度、解理、断口、光泽 | [lessons/lesson-03.md](lessons/lesson-03.md) | 已完成 |
+| 第 4 课 | 晶体、晶面和晶系入门 | [lessons/lesson-04.md](lessons/lesson-04.md) | 已完成 |
 
 ## 下一课准备
 
-### 第 4 课：晶体、晶面和晶系入门
+### 第 5 课：岩石基础：岩浆岩、沉积岩、变质岩与宝石的关系
 
 需要重点回答：
 
-1. 晶体和非晶质体有什么区别？
-2. 晶面、晶棱、晶形分别是什么？
-3. 为什么晶体结构会影响解理、硬度和光学性质？
-4. 常见晶系入门应该先记哪些？
-5. 面向自媒体时，如何用图示解释晶体结构，而不把它讲成鉴定结论？
+1. 岩石和矿物有什么区别？
+2. 岩浆岩、沉积岩、变质岩分别如何形成？
+3. 三大岩类和宝石形成环境有什么关系？
+4. 为什么有些宝石来自原生矿床，有些来自次生沉积富集？
+5. 面向自媒体时，如何讲清“岩石背景”，但不把它包装成产地或价值结论？
 
 ## 自媒体发布包记录
 
@@ -52,6 +54,7 @@
 | 第 1 课 | [宝石、矿物、玉石区别图](assets/lesson-01/gem-mineral-jade-comparison.png) | [video-shotlist.md](assets/lesson-01/video-shotlist.md) | [carousel-copy.md](assets/lesson-01/carousel-copy.md) | 已补齐 |
 | 第 2 课 | [宝石主要形成环境图](assets/lesson-02/formation-environments-map.png) | [video-shotlist.md](assets/lesson-02/video-shotlist.md) | [carousel-copy.md](assets/lesson-02/carousel-copy.md) | 已补齐 |
 | 第 3 课 | [莫氏硬度图](assets/lesson-03/mohs-hardness-scale.png)、[解理断口图](assets/lesson-03/cleavage-vs-fracture.png) | [video-shotlist.md](assets/lesson-03/video-shotlist.md) | [carousel-copy.md](assets/lesson-03/carousel-copy.md) | 已补齐 |
+| 第 4 课 | [晶体非晶质体图](assets/lesson-04/crystal-vs-amorphous.png)、[晶面晶棱晶系图](assets/lesson-04/crystal-faces-edges-systems.png) | [video-shotlist.md](assets/lesson-04/video-shotlist.md) | [carousel-copy.md](assets/lesson-04/carousel-copy.md) | 已补齐 |
 
 ## 自媒体运营记录
 

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">晶体 vs 非晶质体</title>
+  <desc id="desc">对比晶体有规则内部结构，非晶质体没有长程有序结构。</desc>
+  <rect width="1200" height="820" fill="#fbf8f2"/>
+  <text x="600" y="70" text-anchor="middle" font-family="Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="42" font-weight="700" fill="#2d2520">晶体 vs 非晶质体</text>
+  <text x="600" y="112" text-anchor="middle" font-family="Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="22" fill="#675b50">关键区别：内部结构是否长程有序</text>
+  <g font-family="Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif">
+    <rect x="80" y="165" width="500" height="520" rx="30" fill="#eaf3f7" stroke="#8bb8ca" stroke-width="3"/>
+    <text x="330" y="225" text-anchor="middle" font-size="38" font-weight="700" fill="#24576a">晶体</text>
+    <text x="330" y="262" text-anchor="middle" font-size="22" fill="#24576a">内部粒子规则排列</text>
+    <g fill="#8bb8ca" stroke="#24576a" stroke-width="3">
+      <circle cx="205" cy="350" r="18"/><circle cx="275" cy="350" r="18"/><circle cx="345" cy="350" r="18"/><circle cx="415" cy="350" r="18"/>
+      <circle cx="205" cy="420" r="18"/><circle cx="275" cy="420" r="18"/><circle cx="345" cy="420" r="18"/><circle cx="415" cy="420" r="18"/>
+      <circle cx="205" cy="490" r="18"/><circle cx="275" cy="490" r="18"/><circle cx="345" cy="490" r="18"/><circle cx="415" cy="490" r="18"/>
+    </g>
+    <g stroke="#5b8797" stroke-width="3" opacity="0.65">
+      <line x1="205" y1="350" x2="415" y2="350"/><line x1="205" y1="420" x2="415" y2="420"/><line x1="205" y1="490" x2="415" y2="490"/>
+      <line x1="205" y1="350" x2="205" y2="490"/><line x1="275" y1="350" x2="275" y2="490"/><line x1="345" y1="350" x2="345" y2="490"/><line x1="415" y1="350" x2="415" y2="490"/>
+    </g>
+    <rect x="150" y="575" width="360" height="70" rx="18" fill="#ffffff" stroke="#b9d4df" stroke-width="2"/>
+    <text x="330" y="620" text-anchor="middle" font-size="24" font-weight="700" fill="#24576a">例：石英、刚玉、钻石</text>
+
+    <rect x="620" y="165" width="500" height="520" rx="30" fill="#fff1e2" stroke="#d6a36b" stroke-width="3"/>
+    <text x="870" y="225" text-anchor="middle" font-size="38" font-weight="700" fill="#8a4f22">非晶质体</text>
+    <text x="870" y="262" text-anchor="middle" font-size="22" fill="#8a4f22">内部缺少长程有序排列</text>
+    <g fill="#e5b47f" stroke="#8a4f22" stroke-width="3">
+      <circle cx="760" cy="360" r="18"/><circle cx="835" cy="330" r="18"/><circle cx="920" cy="375" r="18"/><circle cx="1010" cy="345" r="18"/>
+      <circle cx="790" cy="445" r="18"/><circle cx="880" cy="430" r="18"/><circle cx="970" cy="480" r="18"/><circle cx="735" cy="520" r="18"/>
+      <circle cx="850" cy="545" r="18"/><circle cx="1030" cy="535" r="18"/><circle cx="935" cy="555" r="18"/>
+    </g>
+    <path d="M735 520 C790 445, 760 360, 835 330 C880 430, 920 375, 1010 345 C970 480, 1030 535, 935 555 C850 545, 790 445, 735 520 Z" fill="none" stroke="#d4935a" stroke-width="4" stroke-dasharray="10 10" opacity="0.75"/>
+    <rect x="690" y="575" width="360" height="70" rx="18" fill="#ffffff" stroke="#e6c39e" stroke-width="2"/>
+    <text x="870" y="620" text-anchor="middle" font-size="24" font-weight="700" fill="#8a4f22">例：玻璃、部分火山玻璃</text>
+
+    <rect x="160" y="725" width="880" height="54" rx="18" fill="#fffdf8" stroke="#d5c4af" stroke-width="2"/>
+    <text x="600" y="760" text-anchor="middle" font-size="24" font-weight="700" fill="#4d443d">学习边界：结构知识帮助理解性质，不能单独下鉴定结论</text>
+  </g>
+</svg>
