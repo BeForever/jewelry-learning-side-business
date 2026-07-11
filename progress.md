@@ -5,7 +5,7 @@
 ## 当前学习状态
 
 - 当前实际学习进度：已学习/复习到第 4 课。
-- 当前材料准备进度：材料已准备到第 20 课。
+- 当前材料准备进度：材料已准备到第 40 课。
 - 后续学习起点：第 5 课，岩石基础：岩浆岩、沉积岩、变质岩与宝石的关系。
 
 ## 总体学习路线
@@ -48,6 +48,26 @@
 | 第 18 课 | 天然、合成、仿制、拼合石的区别 | [lessons/lesson-18.md](lessons/lesson-18.md) | 已备课，待学习 |
 | 第 19 课 | 钻石入门：4C 为什么是消费框架 | [lessons/lesson-19.md](lessons/lesson-19.md) | 已备课，待学习 |
 | 第 20 课 | 钻石证书与预算：天然钻、培育钻和购买决策 | [lessons/lesson-20.md](lessons/lesson-20.md) | 已备课，待学习 |
+| 第 21 课 | 钻石切工深入：比例、火彩、亮度和漏光 | [lessons/lesson-21.md](lessons/lesson-21.md) | 已备课，待学习 |
+| 第 22 课 | 钻石颜色净度深入：肉眼可见与预算取舍 | [lessons/lesson-22.md](lessons/lesson-22.md) | 已备课，待学习 |
+| 第 23 课 | 钻石荧光、奶咖绿、证书备注与隐藏风险 | [lessons/lesson-23.md](lessons/lesson-23.md) | 已备课，待学习 |
+| 第 24 课 | 培育钻专题：HPHT、CVD、价格与披露 | [lessons/lesson-24.md](lessons/lesson-24.md) | 已备课，待学习 |
+| 第 25 课 | 钻戒镶嵌与日常佩戴：爪镶、包镶、戒托和保养 | [lessons/lesson-25.md](lessons/lesson-25.md) | 已备课，待学习 |
+| 第 26 课 | 彩色宝石总览：颜色、产地、处理和证书 | [lessons/lesson-26.md](lessons/lesson-26.md) | 已备课，待学习 |
+| 第 27 课 | 红宝石入门：颜色、产地故事、热处理和证书边界 | [lessons/lesson-27.md](lessons/lesson-27.md) | 已备课，待学习 |
+| 第 28 课 | 蓝宝石入门：颜色体系、加热、扩散和预算 | [lessons/lesson-28.md](lessons/lesson-28.md) | 已备课，待学习 |
+| 第 29 课 | 祖母绿入门：裂隙、注油、净度和佩戴风险 | [lessons/lesson-29.md](lessons/lesson-29.md) | 已备课，待学习 |
+| 第 30 课 | 尖晶石入门：红粉蓝紫与市场认知 | [lessons/lesson-30.md](lessons/lesson-30.md) | 已备课，待学习 |
+| 第 31 课 | 碧玺入门：颜色丰富、帕拉伊巴、处理与预算 | [lessons/lesson-31.md](lessons/lesson-31.md) | 已备课，待学习 |
+| 第 32 课 | 石榴石族入门：不只有酒红色 | [lessons/lesson-32.md](lessons/lesson-32.md) | 已备课，待学习 |
+| 第 33 课 | 海蓝宝、摩根石与绿柱石家族 | [lessons/lesson-33.md](lessons/lesson-33.md) | 已备课，待学习 |
+| 第 34 课 | 金绿宝石、亚历山大石和猫眼效应 | [lessons/lesson-34.md](lessons/lesson-34.md) | 已备课，待学习 |
+| 第 35 课 | 欧泊入门：变彩、保养和拼合风险 | [lessons/lesson-35.md](lessons/lesson-35.md) | 已备课，待学习 |
+| 第 36 课 | 托帕石、坦桑石、锆石入门：易混点与保养 | [lessons/lesson-36.md](lessons/lesson-36.md) | 已备课，待学习 |
+| 第 37 课 | 珍珠入门：海水、淡水、Akoya、南洋和大溪地 | [lessons/lesson-37.md](lessons/lesson-37.md) | 已备课，待学习 |
+| 第 38 课 | 翡翠入门：种水色工和 A/B/C 货边界 | [lessons/lesson-38.md](lessons/lesson-38.md) | 已备课，待学习 |
+| 第 39 课 | 和田玉与软玉入门：产状、油润感和证书 | [lessons/lesson-39.md](lessons/lesson-39.md) | 已备课，待学习 |
+| 第 40 课 | 珠宝预算与购买流程：从需求到复检到售后 | [lessons/lesson-40.md](lessons/lesson-40.md) | 已备课，待学习 |
 
 ## 下一次学习准备
 
@@ -67,26 +87,46 @@
 
 | 课次 | 关键配图 | 短视频分镜 | 分屏脚本 | 图文轮播稿 | 状态 |
 | --- | --- | --- | --- | --- | --- |
-| 第 1 课 | [宝石、矿物、玉石区别图](assets/lesson-01/gem-mineral-jade-comparison.png) | [video-shotlist.md](assets/lesson-01/video-shotlist.md) | [split-screen-script.md](assets/lesson-01/split-screen-script.md) | [carousel-copy.md](assets/lesson-01/carousel-copy.md) | 已补齐 |
-| 第 2 课 | [宝石主要形成环境图](assets/lesson-02/formation-environments-map.png) | [video-shotlist.md](assets/lesson-02/video-shotlist.md) | [split-screen-script.md](assets/lesson-02/split-screen-script.md) | [carousel-copy.md](assets/lesson-02/carousel-copy.md) | 已补齐 |
-| 第 3 课 | [莫氏硬度图](assets/lesson-03/mohs-hardness-scale.png)、[解理断口图](assets/lesson-03/cleavage-vs-fracture.png) | [video-shotlist.md](assets/lesson-03/video-shotlist.md) | [split-screen-script.md](assets/lesson-03/split-screen-script.md) | [carousel-copy.md](assets/lesson-03/carousel-copy.md) | 已补齐 |
-| 第 4 课 | [晶体非晶质体图](assets/lesson-04/crystal-vs-amorphous.png)、[晶面晶棱晶系图](assets/lesson-04/crystal-faces-edges-systems.png) | [video-shotlist.md](assets/lesson-04/video-shotlist.md) | [split-screen-script.md](assets/lesson-04/split-screen-script.md) | [carousel-copy.md](assets/lesson-04/carousel-copy.md) | 已补齐 |
-| 第 5 课 | [三大岩类与宝石关系图](assets/lesson-05/rock-cycle-gem-context.png) | [video-shotlist.md](assets/lesson-05/video-shotlist.md) | [split-screen-script.md](assets/lesson-05/split-screen-script.md) | [carousel-copy.md](assets/lesson-05/carousel-copy.md) | 已补齐 |
-| 第 6 课 | [化学成分与致色元素图](assets/lesson-06/composition-trace-elements.png) | [video-shotlist.md](assets/lesson-06/video-shotlist.md) | [split-screen-script.md](assets/lesson-06/split-screen-script.md) | [carousel-copy.md](assets/lesson-06/carousel-copy.md) | 已补齐 |
-| 第 7 课 | [宝石颜色成因图](assets/lesson-07/gem-color-causes.png) | [video-shotlist.md](assets/lesson-07/video-shotlist.md) | [split-screen-script.md](assets/lesson-07/split-screen-script.md) | [carousel-copy.md](assets/lesson-07/carousel-copy.md) | 已补齐 |
-| 第 8 课 | [宝石光学性质图](assets/lesson-08/optical-properties-map.png) | [video-shotlist.md](assets/lesson-08/video-shotlist.md) | [split-screen-script.md](assets/lesson-08/split-screen-script.md) | [carousel-copy.md](assets/lesson-08/carousel-copy.md) | 已补齐 |
-| 第 9 课 | [包裹体与生长痕迹图](assets/lesson-09/inclusions-growth-features.png) | [video-shotlist.md](assets/lesson-09/video-shotlist.md) | [split-screen-script.md](assets/lesson-09/split-screen-script.md) | [carousel-copy.md](assets/lesson-09/carousel-copy.md) | 已补齐 |
-| 第 10 课 | [宝石学仪器入门图](assets/lesson-10/gemology-instruments-intro.png) | [video-shotlist.md](assets/lesson-10/video-shotlist.md) | [split-screen-script.md](assets/lesson-10/split-screen-script.md) | [carousel-copy.md](assets/lesson-10/carousel-copy.md) | 已补齐 |
-| 第 11 课 | [宝石证书图](assets/lesson-11/certificate-reading-basics.png) | [video-shotlist.md](assets/lesson-11/video-shotlist.md) | [split-screen-script.md](assets/lesson-11/split-screen-script.md) | [carousel-copy.md](assets/lesson-11/carousel-copy.md) | 已补齐 |
-| 第 12 课 | [10 倍放大镜观察清单](assets/lesson-12/loupe-observation-checklist.png) | [video-shotlist.md](assets/lesson-12/video-shotlist.md) | [split-screen-script.md](assets/lesson-12/split-screen-script.md) | [carousel-copy.md](assets/lesson-12/carousel-copy.md) | 已补齐 |
-| 第 13 课 | [折射率与折射仪图](assets/lesson-13/refractive-index-refractometer.png) | [video-shotlist.md](assets/lesson-13/video-shotlist.md) | [split-screen-script.md](assets/lesson-13/split-screen-script.md) | [carousel-copy.md](assets/lesson-13/carousel-copy.md) | 已补齐 |
-| 第 14 课 | [偏光镜与光性图](assets/lesson-14/polariscope-optic-character.png) | [video-shotlist.md](assets/lesson-14/video-shotlist.md) | [split-screen-script.md](assets/lesson-14/split-screen-script.md) | [carousel-copy.md](assets/lesson-14/carousel-copy.md) | 已补齐 |
-| 第 15 课 | [颜色观察工具图](assets/lesson-15/color-observation-instruments.png) | [video-shotlist.md](assets/lesson-15/video-shotlist.md) | [split-screen-script.md](assets/lesson-15/split-screen-script.md) | [carousel-copy.md](assets/lesson-15/carousel-copy.md) | 已补齐 |
-| 第 16 课 | [比重与密度图](assets/lesson-16/specific-gravity-density.png) | [video-shotlist.md](assets/lesson-16/video-shotlist.md) | [split-screen-script.md](assets/lesson-16/split-screen-script.md) | [carousel-copy.md](assets/lesson-16/carousel-copy.md) | 已补齐 |
-| 第 17 课 | [常见宝石优化处理图](assets/lesson-17/gem-treatment-overview.png) | [video-shotlist.md](assets/lesson-17/video-shotlist.md) | [split-screen-script.md](assets/lesson-17/split-screen-script.md) | [carousel-copy.md](assets/lesson-17/carousel-copy.md) | 已补齐 |
-| 第 18 课 | [天然合成仿制拼合石图](assets/lesson-18/natural-synthetic-imitation-assembled.png) | [video-shotlist.md](assets/lesson-18/video-shotlist.md) | [split-screen-script.md](assets/lesson-18/split-screen-script.md) | [carousel-copy.md](assets/lesson-18/carousel-copy.md) | 已补齐 |
-| 第 19 课 | [钻石 4C 框架图](assets/lesson-19/diamond-4c-framework.png) | [video-shotlist.md](assets/lesson-19/video-shotlist.md) | [split-screen-script.md](assets/lesson-19/split-screen-script.md) | [carousel-copy.md](assets/lesson-19/carousel-copy.md) | 已补齐 |
-| 第 20 课 | [钻石证书与预算图](assets/lesson-20/diamond-certificate-budget.png) | [video-shotlist.md](assets/lesson-20/video-shotlist.md) | [split-screen-script.md](assets/lesson-20/split-screen-script.md) | [carousel-copy.md](assets/lesson-20/carousel-copy.md) | 已补齐 |
+| 第 1 课 | [宝石、矿物、玉石的区别配图](assets/lesson-01/gem-mineral-jade-comparison.png) | [video-shotlist.md](assets/lesson-01/video-shotlist.md) | [split-screen-script.md](assets/lesson-01/split-screen-script.md) | [carousel-copy.md](assets/lesson-01/carousel-copy.md) | 已补齐 |
+| 第 2 课 | [宝石的主要形成环境配图](assets/lesson-02/formation-environments-map.png) | [video-shotlist.md](assets/lesson-02/video-shotlist.md) | [split-screen-script.md](assets/lesson-02/split-screen-script.md) | [carousel-copy.md](assets/lesson-02/carousel-copy.md) | 已补齐 |
+| 第 3 课 | [矿物的物理性质：硬度、解理、断口、光泽配图](assets/lesson-03/cleavage-vs-fracture.png) | [video-shotlist.md](assets/lesson-03/video-shotlist.md) | [split-screen-script.md](assets/lesson-03/split-screen-script.md) | [carousel-copy.md](assets/lesson-03/carousel-copy.md) | 已补齐 |
+| 第 4 课 | [晶体、晶面和晶系入门配图](assets/lesson-04/crystal-faces-edges-systems.png) | [video-shotlist.md](assets/lesson-04/video-shotlist.md) | [split-screen-script.md](assets/lesson-04/split-screen-script.md) | [carousel-copy.md](assets/lesson-04/carousel-copy.md) | 已补齐 |
+| 第 5 课 | [岩石基础：岩浆岩、沉积岩、变质岩与宝石的关系配图](assets/lesson-05/rock-cycle-gem-context.png) | [video-shotlist.md](assets/lesson-05/video-shotlist.md) | [split-screen-script.md](assets/lesson-05/split-screen-script.md) | [carousel-copy.md](assets/lesson-05/carousel-copy.md) | 已补齐 |
+| 第 6 课 | [矿物的化学成分与致色元素入门配图](assets/lesson-06/composition-trace-elements.png) | [video-shotlist.md](assets/lesson-06/video-shotlist.md) | [split-screen-script.md](assets/lesson-06/split-screen-script.md) | [carousel-copy.md](assets/lesson-06/carousel-copy.md) | 已补齐 |
+| 第 7 课 | [宝石颜色成因：自色、他色、色心与处理配图](assets/lesson-07/gem-color-causes.png) | [video-shotlist.md](assets/lesson-07/video-shotlist.md) | [split-screen-script.md](assets/lesson-07/split-screen-script.md) | [carousel-copy.md](assets/lesson-07/carousel-copy.md) | 已补齐 |
+| 第 8 课 | [宝石光学性质入门：透明度、折射、双折射和多色性配图](assets/lesson-08/optical-properties-map.png) | [video-shotlist.md](assets/lesson-08/video-shotlist.md) | [split-screen-script.md](assets/lesson-08/split-screen-script.md) | [carousel-copy.md](assets/lesson-08/carousel-copy.md) | 已补齐 |
+| 第 9 课 | [包裹体与生长痕迹入门：为什么不能只靠肉眼下结论配图](assets/lesson-09/inclusions-growth-features.png) | [video-shotlist.md](assets/lesson-09/video-shotlist.md) | [split-screen-script.md](assets/lesson-09/split-screen-script.md) | [carousel-copy.md](assets/lesson-09/carousel-copy.md) | 已补齐 |
+| 第 10 课 | [宝石学仪器入门：放大镜、折射仪、偏光镜和二色镜配图](assets/lesson-10/gemology-instruments-intro.png) | [video-shotlist.md](assets/lesson-10/video-shotlist.md) | [split-screen-script.md](assets/lesson-10/split-screen-script.md) | [carousel-copy.md](assets/lesson-10/carousel-copy.md) | 已补齐 |
+| 第 11 课 | [宝石证书入门：证书能告诉你什么，不能告诉你什么配图](assets/lesson-11/certificate-reading-basics.png) | [video-shotlist.md](assets/lesson-11/video-shotlist.md) | [split-screen-script.md](assets/lesson-11/split-screen-script.md) | [carousel-copy.md](assets/lesson-11/carousel-copy.md) | 已补齐 |
+| 第 12 课 | [10 倍放大镜实操：表面、镶嵌、裂隙和包裹体观察配图](assets/lesson-12/loupe-observation-checklist.png) | [video-shotlist.md](assets/lesson-12/video-shotlist.md) | [split-screen-script.md](assets/lesson-12/split-screen-script.md) | [carousel-copy.md](assets/lesson-12/carousel-copy.md) | 已补齐 |
+| 第 13 课 | [折射率与折射仪入门配图](assets/lesson-13/refractive-index-refractometer.png) | [video-shotlist.md](assets/lesson-13/video-shotlist.md) | [split-screen-script.md](assets/lesson-13/split-screen-script.md) | [carousel-copy.md](assets/lesson-13/carousel-copy.md) | 已补齐 |
+| 第 14 课 | [偏光镜与光性：单折射、双折射和集合体配图](assets/lesson-14/polariscope-optic-character.png) | [video-shotlist.md](assets/lesson-14/video-shotlist.md) | [split-screen-script.md](assets/lesson-14/split-screen-script.md) | [carousel-copy.md](assets/lesson-14/carousel-copy.md) | 已补齐 |
+| 第 15 课 | [二色镜、分光镜和滤色镜入门配图](assets/lesson-15/color-observation-instruments.png) | [video-shotlist.md](assets/lesson-15/video-shotlist.md) | [split-screen-script.md](assets/lesson-15/split-screen-script.md) | [carousel-copy.md](assets/lesson-15/carousel-copy.md) | 已补齐 |
+| 第 16 课 | [比重与密度：手感、静水称重和消费边界配图](assets/lesson-16/specific-gravity-density.png) | [video-shotlist.md](assets/lesson-16/video-shotlist.md) | [split-screen-script.md](assets/lesson-16/split-screen-script.md) | [carousel-copy.md](assets/lesson-16/carousel-copy.md) | 已补齐 |
+| 第 17 课 | [常见优化处理总览：加热、染色、充填、扩散和辐照配图](assets/lesson-17/gem-treatment-overview.png) | [video-shotlist.md](assets/lesson-17/video-shotlist.md) | [split-screen-script.md](assets/lesson-17/split-screen-script.md) | [carousel-copy.md](assets/lesson-17/carousel-copy.md) | 已补齐 |
+| 第 18 课 | [天然、合成、仿制、拼合石的区别配图](assets/lesson-18/natural-synthetic-imitation-assembled.png) | [video-shotlist.md](assets/lesson-18/video-shotlist.md) | [split-screen-script.md](assets/lesson-18/split-screen-script.md) | [carousel-copy.md](assets/lesson-18/carousel-copy.md) | 已补齐 |
+| 第 19 课 | [钻石入门：4C 为什么是消费框架配图](assets/lesson-19/diamond-4c-framework.png) | [video-shotlist.md](assets/lesson-19/video-shotlist.md) | [split-screen-script.md](assets/lesson-19/split-screen-script.md) | [carousel-copy.md](assets/lesson-19/carousel-copy.md) | 已补齐 |
+| 第 20 课 | [钻石证书与预算：天然钻、培育钻和购买决策配图](assets/lesson-20/diamond-certificate-budget.png) | [video-shotlist.md](assets/lesson-20/video-shotlist.md) | [split-screen-script.md](assets/lesson-20/split-screen-script.md) | [carousel-copy.md](assets/lesson-20/carousel-copy.md) | 已补齐 |
+| 第 21 课 | [钻石切工深入：比例、火彩、亮度和漏光配图](assets/lesson-21/diamond-cut-light-performance.png) | [video-shotlist.md](assets/lesson-21/video-shotlist.md) | [split-screen-script.md](assets/lesson-21/split-screen-script.md) | [carousel-copy.md](assets/lesson-21/carousel-copy.md) | 已补齐 |
+| 第 22 课 | [钻石颜色净度深入：肉眼可见与预算取舍配图](assets/lesson-22/diamond-color-clarity-budget.png) | [video-shotlist.md](assets/lesson-22/video-shotlist.md) | [split-screen-script.md](assets/lesson-22/split-screen-script.md) | [carousel-copy.md](assets/lesson-22/carousel-copy.md) | 已补齐 |
+| 第 23 课 | [钻石荧光、奶咖绿、证书备注与隐藏风险配图](assets/lesson-23/diamond-hidden-risk-notes.png) | [video-shotlist.md](assets/lesson-23/video-shotlist.md) | [split-screen-script.md](assets/lesson-23/split-screen-script.md) | [carousel-copy.md](assets/lesson-23/carousel-copy.md) | 已补齐 |
+| 第 24 课 | [培育钻专题：HPHT、CVD、价格与披露配图](assets/lesson-24/lab-grown-diamond-hpht-cvd.png) | [video-shotlist.md](assets/lesson-24/video-shotlist.md) | [split-screen-script.md](assets/lesson-24/split-screen-script.md) | [carousel-copy.md](assets/lesson-24/carousel-copy.md) | 已补齐 |
+| 第 25 课 | [钻戒镶嵌与日常佩戴：爪镶、包镶、戒托和保养配图](assets/lesson-25/diamond-ring-setting-care.png) | [video-shotlist.md](assets/lesson-25/video-shotlist.md) | [split-screen-script.md](assets/lesson-25/split-screen-script.md) | [carousel-copy.md](assets/lesson-25/carousel-copy.md) | 已补齐 |
+| 第 26 课 | [彩色宝石总览：颜色、产地、处理和证书配图](assets/lesson-26/colored-gemstone-overview.png) | [video-shotlist.md](assets/lesson-26/video-shotlist.md) | [split-screen-script.md](assets/lesson-26/split-screen-script.md) | [carousel-copy.md](assets/lesson-26/carousel-copy.md) | 已补齐 |
+| 第 27 课 | [红宝石入门：颜色、产地故事、热处理和证书边界配图](assets/lesson-27/ruby-basics-treatment-origin.png) | [video-shotlist.md](assets/lesson-27/video-shotlist.md) | [split-screen-script.md](assets/lesson-27/split-screen-script.md) | [carousel-copy.md](assets/lesson-27/carousel-copy.md) | 已补齐 |
+| 第 28 课 | [蓝宝石入门：颜色体系、加热、扩散和预算配图](assets/lesson-28/sapphire-color-treatment-budget.png) | [video-shotlist.md](assets/lesson-28/video-shotlist.md) | [split-screen-script.md](assets/lesson-28/split-screen-script.md) | [carousel-copy.md](assets/lesson-28/carousel-copy.md) | 已补齐 |
+| 第 29 课 | [祖母绿入门：裂隙、注油、净度和佩戴风险配图](assets/lesson-29/emerald-oil-fracture-care.png) | [video-shotlist.md](assets/lesson-29/video-shotlist.md) | [split-screen-script.md](assets/lesson-29/split-screen-script.md) | [carousel-copy.md](assets/lesson-29/carousel-copy.md) | 已补齐 |
+| 第 30 课 | [尖晶石入门：红粉蓝紫与市场认知配图](assets/lesson-30/spinel-basics-color-market.png) | [video-shotlist.md](assets/lesson-30/video-shotlist.md) | [split-screen-script.md](assets/lesson-30/split-screen-script.md) | [carousel-copy.md](assets/lesson-30/carousel-copy.md) | 已补齐 |
+| 第 31 课 | [碧玺入门：颜色丰富、帕拉伊巴、处理与预算配图](assets/lesson-31/tourmaline-paraiba-budget.png) | [video-shotlist.md](assets/lesson-31/video-shotlist.md) | [split-screen-script.md](assets/lesson-31/split-screen-script.md) | [carousel-copy.md](assets/lesson-31/carousel-copy.md) | 已补齐 |
+| 第 32 课 | [石榴石族入门：不只有酒红色配图](assets/lesson-32/garnet-group-overview.png) | [video-shotlist.md](assets/lesson-32/video-shotlist.md) | [split-screen-script.md](assets/lesson-32/split-screen-script.md) | [carousel-copy.md](assets/lesson-32/carousel-copy.md) | 已补齐 |
+| 第 33 课 | [海蓝宝、摩根石与绿柱石家族配图](assets/lesson-33/beryl-family-aquamarine-morganite.png) | [video-shotlist.md](assets/lesson-33/video-shotlist.md) | [split-screen-script.md](assets/lesson-33/split-screen-script.md) | [carousel-copy.md](assets/lesson-33/carousel-copy.md) | 已补齐 |
+| 第 34 课 | [金绿宝石、亚历山大石和猫眼效应配图](assets/lesson-34/chrysoberyl-alexandrite-catseye.png) | [video-shotlist.md](assets/lesson-34/video-shotlist.md) | [split-screen-script.md](assets/lesson-34/split-screen-script.md) | [carousel-copy.md](assets/lesson-34/carousel-copy.md) | 已补齐 |
+| 第 35 课 | [欧泊入门：变彩、保养和拼合风险配图](assets/lesson-35/opal-play-of-color-care.png) | [video-shotlist.md](assets/lesson-35/video-shotlist.md) | [split-screen-script.md](assets/lesson-35/split-screen-script.md) | [carousel-copy.md](assets/lesson-35/carousel-copy.md) | 已补齐 |
+| 第 36 课 | [托帕石、坦桑石、锆石入门：易混点与保养配图](assets/lesson-36/topaz-tanzanite-zircon-care.png) | [video-shotlist.md](assets/lesson-36/video-shotlist.md) | [split-screen-script.md](assets/lesson-36/split-screen-script.md) | [carousel-copy.md](assets/lesson-36/carousel-copy.md) | 已补齐 |
+| 第 37 课 | [珍珠入门：海水、淡水、Akoya、南洋和大溪地配图](assets/lesson-37/pearl-types-quality.png) | [video-shotlist.md](assets/lesson-37/video-shotlist.md) | [split-screen-script.md](assets/lesson-37/split-screen-script.md) | [carousel-copy.md](assets/lesson-37/carousel-copy.md) | 已补齐 |
+| 第 38 课 | [翡翠入门：种水色工和 A/B/C 货边界配图](assets/lesson-38/jadeite-basics-abc.png) | [video-shotlist.md](assets/lesson-38/video-shotlist.md) | [split-screen-script.md](assets/lesson-38/split-screen-script.md) | [carousel-copy.md](assets/lesson-38/carousel-copy.md) | 已补齐 |
+| 第 39 课 | [和田玉与软玉入门：产状、油润感和证书配图](assets/lesson-39/nephrite-hetian-jade-basics.png) | [video-shotlist.md](assets/lesson-39/video-shotlist.md) | [split-screen-script.md](assets/lesson-39/split-screen-script.md) | [carousel-copy.md](assets/lesson-39/carousel-copy.md) | 已补齐 |
+| 第 40 课 | [珠宝预算与购买流程：从需求到复检到售后配图](assets/lesson-40/jewelry-buying-workflow-budget.png) | [video-shotlist.md](assets/lesson-40/video-shotlist.md) | [split-screen-script.md](assets/lesson-40/split-screen-script.md) | [carousel-copy.md](assets/lesson-40/carousel-copy.md) | 已补齐 |
 
 ## 自媒体运营记录
 
