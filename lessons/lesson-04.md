@@ -289,6 +289,7 @@
 - [晶体 vs 非晶质体 PNG](../assets/lesson-04/crystal-vs-amorphous.png) / [SVG 源文件](../assets/lesson-04/crystal-vs-amorphous.svg)
 - [晶面、晶棱、晶系入门图 PNG](../assets/lesson-04/crystal-faces-edges-systems.png) / [SVG 源文件](../assets/lesson-04/crystal-faces-edges-systems.svg)
 - [第 4 课短视频分镜](../assets/lesson-04/video-shotlist.md)
+- [第 4 课分屏视频脚本](../assets/lesson-04/split-screen-script.md)
 - [第 4 课图文轮播稿](../assets/lesson-04/carousel-copy.md)
 
 ### 4.5 评论区互动问题

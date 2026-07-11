@@ -151,6 +151,7 @@
 
 - [宝石学仪器入门 PNG](../assets/lesson-10/gemology-instruments-intro.png) / [SVG 源文件](../assets/lesson-10/gemology-instruments-intro.svg)
 - [第 10 课短视频分镜](../assets/lesson-10/video-shotlist.md)
+- [第 10 课分屏视频脚本](../assets/lesson-10/split-screen-script.md)
 - [第 10 课图文轮播稿](../assets/lesson-10/carousel-copy.md)
 
 ### 4.5 评论区互动问题

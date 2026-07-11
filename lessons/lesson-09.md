@@ -151,6 +151,7 @@
 
 - [包裹体与生长痕迹 PNG](../assets/lesson-09/inclusions-growth-features.png) / [SVG 源文件](../assets/lesson-09/inclusions-growth-features.svg)
 - [第 9 课短视频分镜](../assets/lesson-09/video-shotlist.md)
+- [第 9 课分屏视频脚本](../assets/lesson-09/split-screen-script.md)
 - [第 9 课图文轮播稿](../assets/lesson-09/carousel-copy.md)
 
 ### 4.5 评论区互动问题

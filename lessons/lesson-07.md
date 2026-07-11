@@ -151,6 +151,7 @@
 
 - [宝石颜色成因入门 PNG](../assets/lesson-07/gem-color-causes.png) / [SVG 源文件](../assets/lesson-07/gem-color-causes.svg)
 - [第 7 课短视频分镜](../assets/lesson-07/video-shotlist.md)
+- [第 7 课分屏视频脚本](../assets/lesson-07/split-screen-script.md)
 - [第 7 课图文轮播稿](../assets/lesson-07/carousel-copy.md)
 
 ### 4.5 评论区互动问题

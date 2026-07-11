@@ -197,6 +197,7 @@
 
 - [宝石主要形成环境图 PNG](../assets/lesson-02/formation-environments-map.png) / [SVG 源文件](../assets/lesson-02/formation-environments-map.svg)
 - [第 2 课短视频分镜](../assets/lesson-02/video-shotlist.md)
+- [第 2 课分屏视频脚本](../assets/lesson-02/split-screen-script.md)
 - [第 2 课图文轮播稿](../assets/lesson-02/carousel-copy.md)
 
 ## 5. 学习档案更新

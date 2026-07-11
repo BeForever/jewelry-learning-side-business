@@ -151,6 +151,7 @@
 
 - [化学成分与致色元素 PNG](../assets/lesson-06/composition-trace-elements.png) / [SVG 源文件](../assets/lesson-06/composition-trace-elements.svg)
 - [第 6 课短视频分镜](../assets/lesson-06/video-shotlist.md)
+- [第 6 课分屏视频脚本](../assets/lesson-06/split-screen-script.md)
 - [第 6 课图文轮播稿](../assets/lesson-06/carousel-copy.md)
 
 ### 4.5 评论区互动问题

@@ -151,6 +151,7 @@
 
 - [三大岩类与宝石关系 PNG](../assets/lesson-05/rock-cycle-gem-context.png) / [SVG 源文件](../assets/lesson-05/rock-cycle-gem-context.svg)
 - [第 5 课短视频分镜](../assets/lesson-05/video-shotlist.md)
+- [第 5 课分屏视频脚本](../assets/lesson-05/split-screen-script.md)
 - [第 5 课图文轮播稿](../assets/lesson-05/carousel-copy.md)
 
 ### 4.5 评论区互动问题

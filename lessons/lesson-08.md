@@ -151,6 +151,7 @@
 
 - [宝石光学性质入门 PNG](../assets/lesson-08/optical-properties-map.png) / [SVG 源文件](../assets/lesson-08/optical-properties-map.svg)
 - [第 8 课短视频分镜](../assets/lesson-08/video-shotlist.md)
+- [第 8 课分屏视频脚本](../assets/lesson-08/split-screen-script.md)
 - [第 8 课图文轮播稿](../assets/lesson-08/carousel-copy.md)
 
 ### 4.5 评论区互动问题

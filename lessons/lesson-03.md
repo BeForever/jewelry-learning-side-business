@@ -305,6 +305,7 @@
 - [莫氏硬度阶梯图 PNG](../assets/lesson-03/mohs-hardness-scale.png) / [SVG 源文件](../assets/lesson-03/mohs-hardness-scale.svg)
 - [解理与断口对比图 PNG](../assets/lesson-03/cleavage-vs-fracture.png) / [SVG 源文件](../assets/lesson-03/cleavage-vs-fracture.svg)
 - [第 3 课短视频分镜](../assets/lesson-03/video-shotlist.md)
+- [第 3 课分屏视频脚本](../assets/lesson-03/split-screen-script.md)
 - [第 3 课图文轮播稿](../assets/lesson-03/carousel-copy.md)
 
 ### 4.5 评论区互动问题
