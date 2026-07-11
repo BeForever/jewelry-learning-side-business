@@ -191,6 +191,7 @@
 
 - [宝石、矿物、玉石区别图 PNG](../assets/lesson-01/gem-mineral-jade-comparison.png) / [SVG 源文件](../assets/lesson-01/gem-mineral-jade-comparison.svg)
 - [第 1 课短视频分镜](../assets/lesson-01/video-shotlist.md)
+- [第 1 课分屏视频脚本](../assets/lesson-01/split-screen-script.md)
 - [第 1 课图文轮播稿](../assets/lesson-01/carousel-copy.md)
 
 ## 5. 学习档案更新
